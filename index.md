@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| George Karamanolis | Los Gatos High School | Computer Science | Incoming Sophomore
+| George | Los Gatos High School | Computer Science | Incoming Sophomore
 
 ![image](https://user-images.githubusercontent.com/107579713/174339039-3c74fc92-e809-4c39-a8a3-21d61a538fcb.png)
 
