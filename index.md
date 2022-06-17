@@ -1,11 +1,12 @@
-﻿# Project Name/Title Goes Here
+﻿# Object Detection Camera
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| George Karamanolis | Los Gatos High School | Computer Science | Incoming Sophomore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![image](https://user-images.githubusercontent.com/107579713/174339039-3c74fc92-e809-4c39-a8a3-21d61a538fcb.png)
+
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
