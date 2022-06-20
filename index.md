@@ -27,7 +27,7 @@ My first milestone was setting up my raspberry pi and giving it machine learning
 # Starter Project
   
 
-On the starter project, I worked with an arduino and a NeoPixel Ring. The Neopixel Ring, which is made up of 12 individual LEDs. It is connected to the arduino with three wires, and the arduino is connected to my computer so that I can control it with my code. The code allows me to control the ring using the serial monitor. If it type characters b, y, g, m, r, or c, the NeoPixel Ring lights up with the respective colors (blue, yellow, green, magenta, red, cyan). 
+On the starter project, I worked with an arduino and a NeoPixel Ring. The Neopixel Ring is made up of 12 individual LEDs. It is connected to the arduino with three wires, and the arduino is connected to my computer so that I can control it with my code. The code allows me to control the ring using the serial monitor. If it type characters b, y, g, m, r, or c, the NeoPixel Ring lights up with the respective colors (blue, yellow, green, magenta, red, cyan). 
 
 
 [![George K Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1655741724/video_to_markdown/images/youtube--NjxrbR2duPs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NjxrbR2duPs "George K Starter Project")
