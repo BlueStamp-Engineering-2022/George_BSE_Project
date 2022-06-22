@@ -1,5 +1,5 @@
 ﻿# Machine Learning Detection Camera
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+For my project, I used a raspberry pi with a picamera2 to detect objects and eyes. The object detection code draws boxes around different objects and identifies them, all in real time. The eye detection draws circles around any eyes the camera sees, also in real time. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my second milestone, I got an eye detection program to work on my laptop. I downloaded various packages that are required for the code to work. I then changed the detection of the code from face detection to just eye detection. I changed the rectangle to a circle to better fit the shape of eyes when identifying them. Finally, I added to the code so that it would stop running when I pressed "q" on my keyboard.
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1655923419/video_to_markdown/images/youtube--WtUPKN5Uh3I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WtUPKN5Uh3I "")
 # First Milestone
