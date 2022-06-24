@@ -11,7 +11,7 @@ For my project, I used a raspberry pi with a picamera2 to detect objects and eye
 # Final Milestone
 My final milestone was getting the program for eye detection on the raspberry pi. I got it to work with the picamera2 instead of a webcam.  
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1656087542/video_to_markdown/images/youtube--0jbku2rOTdQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0jbku2rOTdQ "Milestone 3"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 For my second milestone, I got the eye detection program to work on my laptop. I downloaded various packages that are required for the code to work. I then changed the detection of the code from face detection to just eye detection. I changed the rectangle to a circle to better fit the shape of eyes when identifying them. Finally, I added to the code so that it would stop running when I pressed "q" on my keyboard.
