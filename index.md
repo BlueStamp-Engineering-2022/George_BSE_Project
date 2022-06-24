@@ -22,7 +22,7 @@ For my second milestone, I got the eye detection program to work on my laptop. I
 
 My first milestone was setting up my raspberry pi and giving it machine learning object detection code from github. I started by setting up the SD card and installing the Raspberry Pi OS operating system. Once that was completed, I inserted the SD card into my Raspberry Pi and connected a monitor, mouse, and keyboard. My Raspberry Pi was set up. Next, I connected the camera. I used the Raspberry Pi terminal to take pictures using the camera. Finally, I found a library on github for object detection. I cloned it and, using the terminal, ran the code on my camera. 
 
-[![George K milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1655923371/video_to_markdown/images/youtube--2VjpJtcZLl0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=2VjpJtcZLl0 "")
+[![George K milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1655923371/video_to_markdown/images/youtube--2VjpJtcZLl0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=2VjpJtcZLl0 "George Milestone 1")
 
 # Starter Project
   
