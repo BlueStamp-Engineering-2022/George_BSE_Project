@@ -1,4 +1,4 @@
-﻿# Machine Learning Detection Camera
+﻿# Object and Eye Detection on Raspberry Pi
 For my project, I used a raspberry pi with a picamera2 to detect objects and eyes. The object detection code draws boxes around different objects and identifies them, all in real time. The eye detection draws circles around any eyes the camera sees, also in real time. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
