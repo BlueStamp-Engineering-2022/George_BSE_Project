@@ -16,7 +16,8 @@ My final milestone was getting the program for eye detection on the raspberry pi
 # Second Milestone
 For my second milestone, I got the eye detection program to work on my laptop. I downloaded various packages that are required for the code to work. I then changed the detection of the code from face detection to just eye detection. I changed the rectangle to a circle to better fit the shape of eyes when identifying them. Finally, I added to the code so that it would stop running when I pressed "q" on my keyboard.
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1655923419/video_to_markdown/images/youtube--WtUPKN5Uh3I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WtUPKN5Uh3I ""){:target="_blank" rel="noopener"}
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1655923419/video_to_markdown/images/youtube--WtUPKN5Uh3I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WtUPKN5Uh3I "Milestone 2")
+
 # First Milestone
   
 
